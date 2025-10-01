@@ -1,1 +1,3 @@
-<h1>project-1</h1>
+#screenshots
+![task1](que-1.png)
+
